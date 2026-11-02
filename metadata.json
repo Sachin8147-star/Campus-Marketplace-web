@@ -1,0 +1,6 @@
+{
+  "name": "Campus Crate",
+  "description": "A trusted campus marketplace for college students to buy, sell, and discover pre-loved items, electronics, notes, and essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
